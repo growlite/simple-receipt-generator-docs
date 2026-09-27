@@ -1,0 +1,67 @@
+Licencia y condiciones de uso
+
+Versión: 1.0 · Entrada en vigor: 27 de septiembre de 2026
+
+1. Su acuerdo y el Proveedor
+
+Estas condiciones cubren la aplicación Simple Receipt Generator y sus funciones de recibos, facturas, documentos y PDF. «Usted» es la persona que usa la aplicación; «Proveedor» es la entidad jurídica identificada a continuación. El contrato se celebra entre usted y el Proveedor. El Proveedor es el único responsable de la aplicación y su contenido; Apple no es parte contratante.
+
+GrowLite AI LLC es el Proveedor de la aplicación y titular de los derechos de autor. Dirección de contacto: 522 West Riverside Avenue, STE N, Spokane, WA 99201. Soporte y solicitudes de privacidad: support@growlite.ai. Teléfono comercial: +1 (206) 208-5354. Las preguntas, quejas y reclamaciones sobre la aplicación deben dirigirse al Proveedor mediante estos datos.
+
+Titular de los derechos de autor: GrowLite AI LLC. Las versiones inglesa y española pretenden tener un significado equivalente. Ninguna elimina los derechos imperativos reconocidos por la legislación que le corresponda. Estas condiciones no eligen una jurisdicción aplicable ni imponen arbitraje o renuncias a los recursos del consumidor.
+
+2. Permiso para usar la aplicación
+
+El Proveedor le concede una licencia limitada e intransferible para usar la aplicación en productos de marca Apple que sean de su propiedad o estén bajo su control, conforme a las reglas de uso de las condiciones de los servicios multimedia de Apple. Otras cuentas vinculadas al comprador pueden acceder a la aplicación y usarla mediante En familia o compras por volumen cuando dichas reglas lo permitan. Estas condiciones no imponen reglas de uso incompatibles con las reglas aplicables de Apple.
+
+Se trata de una licencia para usar la aplicación distribuida. No transfiere su propiedad ni concede una licencia sobre su código fuente. No puede revender ni redistribuir la aplicación fuera de los mecanismos permitidos por Apple. Puede ejercer los derechos que la ley aplicable reconozca, incluidos los que una licencia de software no pueda restringir legalmente.
+
+3. Sus datos comerciales y documentos
+
+Usted conserva sus derechos sobre la información y los documentos que introduce o crea. Autoriza únicamente el tratamiento necesario para las funciones que elija: guardar y mostrar registros, calcular importes, generar PDF y, si lo activa, sincronizar documentos guardados a través de su base de datos privada de iCloud. Este permiso no concede el derecho a vender su contenido ni a utilizarlo para publicidad. La Política de privacidad explica los flujos de datos y sus límites.
+
+Introduzca datos de clientes, vendedores e impuestos solo cuando exista un motivo lícito y cuente con la autoridad necesaria. Facilite los avisos y obtenga los permisos que correspondan a su negocio. No escriba números de tarjeta de pago, códigos de seguridad, contraseñas bancarias ni información sensible innecesaria en campos de texto libre. Su responsabilidad respecto de sus clientes no elimina las responsabilidades del Proveedor por los datos que trate.
+
+4. Exactitud, impuestos y pagos
+
+Revise nombres, artículos, fechas, monedas, tratamiento fiscal e importes antes de emitir o enviar un documento. La aplicación ayuda a registrar operaciones; no determina todos los requisitos legales de una factura, recibo, declaración fiscal o registro comercial. Las sugerencias de tipos impositivos estándar incluidas son limitadas y pueden estar desactualizadas o no corresponder a un producto, lugar u operación concretos. Consulte las fuentes oficiales pertinentes y aplique los tipos y tratamientos adecuados. La aplicación no ofrece asesoramiento profesional fiscal, contable o jurídico.
+
+Seleccionar efectivo, tarjeta o transferencia registra un método, una fecha y una referencia de pago. Registrar el pago de una factura o un reembolso no mueve dinero, carga una tarjeta, contacta con un banco ni acredita que se hayan recibido o devuelto fondos. Realice y compruebe el pago o reembolso real por separado. Revise cada moneda por separado; los importes mostrados no constituyen un servicio de conversión de divisas.
+
+5. Historial emitido y correcciones
+
+Los borradores pueden editarse o eliminarse mediante los controles disponibles. Al emitir un recibo o factura, su contenido emitido queda fijado. Los registros emitidos no se pueden editar ni eliminar libremente, incluidos los que posteriormente se anulen, corrijan o reembolsen. Las acciones disponibles de corrección, sustitución, pago y reembolso conservan el historial vinculado; no borran el registro original. Compruebe que este funcionamiento se ajusta a sus obligaciones antes de introducir datos reales de clientes.
+
+6. Almacenamiento local, iCloud y copias
+
+La aplicación guarda información en su dispositivo, incluidos los borradores guardados automáticamente. La sincronización opcional de documentos con iCloud está desactivada inicialmente. Cuando está activada y disponible, sincroniza recibos y facturas guardados con su historial vinculado de pagos, correcciones y reembolsos. El Inventario global, los valores predeterminados del negocio, las preferencias de apariencia y los PDF generados no se sincronizan de forma independiente mediante esta función, aunque los datos copiados a un documento viajan con él. La sincronización de documentos no es una copia de seguridad completa ni un sistema de restauración integral.
+
+Desactivar la sincronización conserva los registros locales y las copias existentes en iCloud. Una solicitud ya enviada puede terminar. Se conservan las versiones en conflicto, incluso después de elegir una. Cambiar la cuenta de iCloud puede dejar copias en la cuenta anterior; revise la confirmación de cambio de cuenta antes de enviar documentos locales a otra cuenta.
+
+La exportación a PDF genera una copia legible, no una base de datos completa que pueda restaurarse. Las exportaciones completadas pueden permanecer dentro de la aplicación aunque cancele su entrega. Archivos, los destinos elegidos para compartir, otros dispositivos y las copias de seguridad del dispositivo pueden conservar copias adicionales. Eliminar un borrador o la aplicación no garantiza que se borren esas copias, el historial emitido, las versiones en conflicto o el historial en la nube. Consulte la Política de privacidad y el Resumen de datos antes de elegir qué guardar, sincronizar o compartir. Mantenga los registros o copias de seguridad independientes que necesite su negocio.
+
+7. Soporte y servicios de terceros
+
+El Proveedor es responsable del mantenimiento y soporte prometidos en estas condiciones o exigidos por la ley aplicable. Escriba a support@growlite.ai con una descripción del problema; la página de Soporte indica qué incluir. Aquí no se promete un plazo fijo de respuesta, un servicio ininterrumpido ni una actualización futura concreta. Apple no tiene obligación de proporcionar mantenimiento ni soporte para esta aplicación.
+
+El uso de los servicios de Apple, su red y los destinos de Archivos o de compartir también está sujeto a las condiciones aplicables de terceros. Debe cumplirlas al usar la aplicación. La disponibilidad puede depender del dispositivo, la cuenta, la conexión y esos servicios. La aplicación no crea una cuenta propia, no procesa compras dentro de ella ni ofrece una suscripción en esta versión. La descarga prevista es una compra única de la aplicación; los precios finales de cada tienda quedan sujetos a configuración y verificación.
+
+8. Garantía, responsabilidad y derechos imperativos
+
+Toda garantía expresa o impuesta por ley que no se haya excluido válidamente corresponde al Proveedor. Si la aplicación incumple una garantía aplicable, puede avisar a Apple y Apple le reembolsará el precio de compra de la aplicación. En la medida permitida por la ley, Apple no tendrá más obligaciones de garantía sobre ella; el Proveedor será responsable de las demás reclamaciones, pérdidas, responsabilidades, daños, costes y gastos derivados del incumplimiento.
+
+El Proveedor es responsable de atender las reclamaciones suyas o de terceros relacionadas con la aplicación o con su posesión o uso, incluidas las relativas a responsabilidad por productos, incumplimiento de requisitos legales o reglamentarios y protección del consumidor o privacidad. Si un tercero alega que la aplicación o su posesión o uso infringe derechos de propiedad intelectual, el Proveedor será el único responsable de investigar, defender, resolver y satisfacer esa reclamación. Estas responsabilidades no se asignan a Apple.
+
+Salvo las garantías y los recursos exigidos por ley o expresamente ofrecidos, el Proveedor no promete que la aplicación esté libre de errores, satisfaga todas las necesidades de un negocio o impida toda pérdida de datos. Esta salvedad solo se aplica cuando sea lícita. Nada excluye ni limita responsabilidades o derechos que legalmente no puedan excluirse o limitarse. Estas condiciones no contienen una exclusión general de los recursos del consumidor ni un límite fijo de responsabilidad.
+
+9. Uso lícito y finalización del uso
+
+Usted declara y garantiza que no se encuentra en un país sujeto a un embargo del Gobierno de Estados Unidos o designado por ese Gobierno como patrocinador del terrorismo, y que no figura en ninguna lista de partes prohibidas o restringidas de ese Gobierno. Use la aplicación legalmente y no interfiera en su funcionamiento ni utilice indebidamente los datos de otras personas.
+
+Puede dejar de usar la aplicación en cualquier momento. Si incumple de forma sustancial estas condiciones, el Proveedor podrá poner fin a su licencia en la medida permitida por la ley, respetando cualquier aviso, oportunidad de subsanación u otra protección legalmente exigida. Finalizar la licencia no autoriza un borrado remoto ni elimina por sí mismo registros o copias. Conserve los registros necesarios antes de retirar la aplicación. No se alteran los derechos y obligaciones que por su naturaleza continúen, incluidos los derechos imperativos del consumidor y la responsabilidad por reclamaciones anteriores.
+
+10. Derechos de Apple como beneficiario y versiones futuras
+
+Usted y el Proveedor acuerdan que Apple y sus filiales son terceros beneficiarios de este contrato. Cuando usted lo acepte, Apple adquiere, y se considera que ha aceptado, el derecho a exigirle su cumplimiento en esa calidad.
+
+Cada versión publicada indica su versión y fecha de entrada en vigor. Los cambios deberán respetar los requisitos aplicables de aviso, consentimiento y protección del consumidor; estas condiciones no permiten eliminar derechos retroactivamente. La Política de privacidad, el Resumen de datos, el Soporte y el Aviso de beta acompañan estas condiciones y explican las funciones y limitaciones actuales.
